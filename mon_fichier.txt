@@ -1,0 +1,3 @@
+Python est un langage puissant.
+Il est utilisé dans divers domaines.
+Python est également facile à apprendre.
